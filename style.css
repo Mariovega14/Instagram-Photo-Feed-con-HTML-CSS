@@ -1,0 +1,58 @@
+h1{background-color: white;
+    width: 100%;
+text-align: center;
+}
+body{
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction:column ;
+}
+
+
+.estructuraPagina{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.encabezado{
+    display: flex;
+    margin-left: 15px;
+    margin-right: 15px;
+    justify-content: space-between;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+h2{
+    font-style: italic;
+    font-size: 20px;
+}
+h3{
+    color: darkgray;
+    font-size: 18px;
+    
+}
+.publicacion{
+    width: 100%;
+   margin-top: 10px;
+   margin-bottom:px ;
+}
+.piedefoto{
+    font-style: oblique;
+    font-size:20px ;
+text-align: left;
+margin-left: 10px;
+margin-right: 10px;
+}
